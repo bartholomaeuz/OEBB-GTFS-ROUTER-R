@@ -1,0 +1,6 @@
+"","route_name","trip_name","stop_name","arrival_time","departure_time"
+"1","S 1","Bruck/Mur Bahnhof","Frohnleiten Bahnhof","13:30:00","13:31:00"
+"2","S 1","Bruck/Mur Bahnhof","Mixnitz-Bärenschützklamm Bahnhof","13:39:00","13:40:00"
+"3","S 1","Bruck/Mur Bahnhof","Pernegg/Mur Bahnhof","13:42:00","13:43:00"
+"4","RJ","Flughafen Wien Bahnhof","Bruck/Mur Bahnhof","14:01:00","14:03:00"
+"5","RJ","Flughafen Wien Bahnhof","Kapfenberg Bahnhof","14:08:00","14:09:00"
